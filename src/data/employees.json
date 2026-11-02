@@ -1,0 +1,110 @@
+[
+  {
+    "id": "emp-001",
+    "name": "Sarah Chen",
+    "email": "sarah.chen@apexcloud.io",
+    "department": "Engineering",
+    "designation": "VP of Engineering",
+    "joiningDate": "2023-02-15",
+    "status": "Active"
+  },
+  {
+    "id": "emp-002",
+    "name": "Marcus Vance",
+    "email": "marcus.vance@apexcloud.io",
+    "department": "Engineering",
+    "designation": "Senior Fullstack Engineer",
+    "joiningDate": "2023-04-10",
+    "status": "Active"
+  },
+  {
+    "id": "emp-003",
+    "name": "Elena Rostova",
+    "email": "elena.rostova@apexcloud.io",
+    "department": "Product Design",
+    "designation": "Lead Product Designer",
+    "joiningDate": "2023-06-01",
+    "status": "Active"
+  },
+  {
+    "id": "emp-004",
+    "name": "David Kim",
+    "email": "david.kim@apexcloud.io",
+    "department": "Product",
+    "designation": "Senior Product Manager",
+    "joiningDate": "2023-07-18",
+    "status": "Active"
+  },
+  {
+    "id": "emp-005",
+    "name": "Amira Al-Mansoor",
+    "email": "amira.mansoor@apexcloud.io",
+    "department": "Marketing",
+    "designation": "Head of Growth",
+    "joiningDate": "2023-09-05",
+    "status": "Active"
+  },
+  {
+    "id": "emp-006",
+    "name": "Julian Miller",
+    "email": "julian.miller@apexcloud.io",
+    "department": "Sales",
+    "designation": "Enterprise Account Exec",
+    "joiningDate": "2023-11-20",
+    "status": "Offboarding"
+  },
+  {
+    "id": "emp-007",
+    "name": "Priya Sharma",
+    "email": "priya.sharma@apexcloud.io",
+    "department": "Engineering",
+    "designation": "DevOps Architect",
+    "joiningDate": "2024-01-15",
+    "status": "Active"
+  },
+  {
+    "id": "emp-008",
+    "name": "Carlos Mendez",
+    "email": "carlos.mendez@apexcloud.io",
+    "department": "Customer Success",
+    "designation": "Support Lead",
+    "joiningDate": "2024-03-01",
+    "status": "Active"
+  },
+  {
+    "id": "emp-009",
+    "name": "Zoe Takahashi",
+    "email": "zoe.takahashi@apexcloud.io",
+    "department": "Product Design",
+    "designation": "UI/UX Designer",
+    "joiningDate": "2024-04-12",
+    "status": "Active"
+  },
+  {
+    "id": "emp-010",
+    "name": "Liam Gallagher",
+    "email": "liam.gallagher@apexcloud.io",
+    "department": "Sales",
+    "designation": "SDR Specialist",
+    "joiningDate": "2024-06-25",
+    "status": "Active"
+  },
+  {
+    "id": "emp-011",
+    "name": "Nadia Osei",
+    "email": "nadia.osei@apexcloud.io",
+    "department": "Finance & Ops",
+    "designation": "Operations Director",
+    "joiningDate": "2024-08-10",
+    "status": "Active"
+  },
+  {
+    "id": "emp-012",
+    "name": "Tom Bradley",
+    "email": "tom.bradley@apexcloud.io",
+    "department": "Engineering",
+    "designation": "Frontend Developer",
+    "joiningDate": "2024-10-01",
+    "status": "Inactive"
+  }
+]

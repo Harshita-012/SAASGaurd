@@ -1,0 +1,10 @@
+{
+  "name": "ApexCloud Technologies",
+  "domain": "apexcloud.io",
+  "industry": "Enterprise Software",
+  "currency": "USD",
+  "currencySymbol": "$",
+  "fiscalYearStart": "January",
+  "primaryAdmin": "Sarah Chen",
+  "inactivityThresholdDays": 30
+}

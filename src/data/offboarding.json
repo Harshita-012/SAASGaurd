@@ -1,0 +1,102 @@
+[
+  {
+    "id": "off-001",
+    "employeeId": "emp-006",
+    "employeeName": "Julian Miller",
+    "department": "Sales",
+    "designation": "Enterprise Account Exec",
+    "initiator": "Sarah Chen",
+    "startDate": "2026-10-30",
+    "targetDate": "2026-11-06",
+    "status": "In Progress",
+    "notes": "Transitioning enterprise accounts to Liam Gallagher. Revoke CRM and comms immediately on last day.",
+    "tasks": [
+      {
+        "id": "task-off-1",
+        "subscriptionId": "sub-001",
+        "applicationName": "Slack Enterprise",
+        "actionRequired": "Deactivate Slack account and transfer channel ownerships",
+        "status": "Completed",
+        "completedAt": "2026-10-31T10:30:00.000Z",
+        "completedBy": "Sarah Chen"
+      },
+      {
+        "id": "task-off-2",
+        "subscriptionId": "sub-004",
+        "applicationName": "Notion Business",
+        "actionRequired": "Remove workspace access and reassign document ownership",
+        "status": "Completed",
+        "completedAt": "2026-11-01T14:20:00.000Z",
+        "completedBy": "David Kim"
+      },
+      {
+        "id": "task-off-3",
+        "subscriptionId": "sub-005",
+        "applicationName": "Zoom Workplace Pro",
+        "actionRequired": "Unlicense Zoom user and transfer scheduled cloud recordings",
+        "status": "Pending",
+        "completedAt": null,
+        "completedBy": null
+      },
+      {
+        "id": "task-off-4",
+        "subscriptionId": "sub-008",
+        "applicationName": "Microsoft 365 Business Standard",
+        "actionRequired": "Revoke M365 license, convert mailbox to shared, reset password",
+        "status": "Pending",
+        "completedAt": null,
+        "completedBy": null
+      },
+      {
+        "id": "task-off-5",
+        "subscriptionId": "sub-009",
+        "applicationName": "HubSpot Sales Hub Pro",
+        "actionRequired": "Reassign open deals/contacts to Liam Gallagher and revoke CRM seat",
+        "status": "Pending",
+        "completedAt": null,
+        "completedBy": null
+      }
+    ]
+  },
+  {
+    "id": "off-002",
+    "employeeId": "emp-012",
+    "employeeName": "Tom Bradley",
+    "department": "Engineering",
+    "designation": "Frontend Developer",
+    "initiator": "Sarah Chen",
+    "startDate": "2026-10-01",
+    "targetDate": "2026-10-05",
+    "status": "Completed",
+    "notes": "Mutual departure. All repository keys, SSO seats, and access tokens purged.",
+    "tasks": [
+      {
+        "id": "task-off-6",
+        "subscriptionId": "sub-001",
+        "applicationName": "Slack Enterprise",
+        "actionRequired": "Deactivate Slack user seat",
+        "status": "Completed",
+        "completedAt": "2026-10-05T09:00:00.000Z",
+        "completedBy": "Sarah Chen"
+      },
+      {
+        "id": "task-off-7",
+        "subscriptionId": "sub-002",
+        "applicationName": "GitHub Enterprise",
+        "actionRequired": "Revoke GitHub enterprise team membership and SSH public keys",
+        "status": "Completed",
+        "completedAt": "2026-10-05T09:15:00.000Z",
+        "completedBy": "Sarah Chen"
+      },
+      {
+        "id": "task-off-8",
+        "subscriptionId": "sub-008",
+        "applicationName": "Microsoft 365 Business Standard",
+        "actionRequired": "Remove M365 license and terminate active sessions",
+        "status": "Completed",
+        "completedAt": "2026-10-05T09:45:00.000Z",
+        "completedBy": "Nadia Osei"
+      }
+    ]
+  }
+]

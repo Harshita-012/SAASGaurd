@@ -1,0 +1,47 @@
+[
+  {
+    "id": "notif-001",
+    "type": "renewal-urgent",
+    "title": "Renewal in 3 days: Zoom Workplace Pro",
+    "message": "Zoom Workplace Pro renews on Nov 5, 2026 ($150/mo). Check 3 unassigned seats.",
+    "timestamp": "2026-11-02T09:30:00.000Z",
+    "read": false,
+    "actionUrl": "/subscriptions"
+  },
+  {
+    "id": "notif-002",
+    "type": "renewal-urgent",
+    "title": "Annual Contract Renewal: GitHub Enterprise",
+    "message": "GitHub Enterprise renews on Nov 8, 2026 ($2,520/yr). 5 seats currently unallocated.",
+    "timestamp": "2026-11-01T14:15:00.000Z",
+    "read": false,
+    "actionUrl": "/subscriptions"
+  },
+  {
+    "id": "notif-003",
+    "type": "offboarding",
+    "title": "Pending Offboarding: Julian Miller",
+    "message": "Julian Miller's exit checklist has 3 remaining application revocations to execute.",
+    "timestamp": "2026-11-02T08:00:00.000Z",
+    "read": false,
+    "actionUrl": "/offboarding"
+  },
+  {
+    "id": "notif-004",
+    "type": "unused-licence",
+    "title": "Potentially Unused Licences Detected",
+    "message": "6 licences across Figma, Datadog and HubSpot show 60+ days without user activity.",
+    "timestamp": "2026-10-31T11:00:00.000Z",
+    "read": false,
+    "actionUrl": "/usage"
+  },
+  {
+    "id": "notif-005",
+    "type": "recommendation",
+    "title": "New Optimization Available",
+    "message": "Potential monthly savings of $333 identified on HubSpot Sales Hub Pro.",
+    "timestamp": "2026-10-30T16:45:00.000Z",
+    "read": true,
+    "actionUrl": "/optimization"
+  }
+]

@@ -1,0 +1,57 @@
+[
+  {
+    "id": "rec-001",
+    "subscriptionId": "sub-002",
+    "application": "GitHub Enterprise",
+    "reason": "5 out of 10 purchased seats have had zero code activity or seat assignment in over 60 days.",
+    "currentCost": 210,
+    "estimatedSavings": 105,
+    "priority": "High",
+    "suggestedAction": "Reduce seat count from 10 to 6 at upcoming annual renewal on Nov 8.",
+    "status": "Active"
+  },
+  {
+    "id": "rec-002",
+    "subscriptionId": "sub-009",
+    "application": "HubSpot Sales Hub Pro",
+    "reason": "Only 3 out of 6 seats are assigned, and 1 assigned seat (Nadia Osei) has been inactive for 110 days.",
+    "currentCost": 500,
+    "estimatedSavings": 333,
+    "priority": "High",
+    "suggestedAction": "Reclaim 1 inactive licence and downgrade contract tier to 3 seats.",
+    "status": "Active"
+  },
+  {
+    "id": "rec-003",
+    "subscriptionId": "sub-0010",
+    "application": "Datadog Pro",
+    "reason": "4 unassigned host licenses detected; Marcus Vance has not accessed APM in 79 days.",
+    "currentCost": 420,
+    "estimatedSavings": 210,
+    "priority": "Medium",
+    "suggestedAction": "Rightsize monthly tier from 8 seats to 4 active infrastructure hosts.",
+    "status": "Active"
+  },
+  {
+    "id": "rec-004",
+    "subscriptionId": "sub-005",
+    "application": "Zoom Workplace Pro",
+    "reason": "Overlapping video capability: Microsoft 365 Teams is already included in company standard suite.",
+    "currentCost": 150,
+    "estimatedSavings": 150,
+    "priority": "Medium",
+    "suggestedAction": "Consolidate calls onto Microsoft Teams or downgrade to Zoom Free tier.",
+    "status": "Active"
+  },
+  {
+    "id": "rec-005",
+    "subscriptionId": "sub-006",
+    "application": "Jira Software & Confluence",
+    "reason": "7 unused seats out of 15; Carlos Mendez has zero Jira interactions for 74 days.",
+    "currentCost": 310,
+    "estimatedSavings": 124,
+    "priority": "Low",
+    "suggestedAction": "Reclaim 1 inactive licence and adjust plan tier to 10 users.",
+    "status": "Accepted"
+  }
+]

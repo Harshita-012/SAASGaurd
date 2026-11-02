@@ -1,0 +1,63 @@
+[
+  { "id": "asg-001", "employeeId": "emp-001", "subscriptionId": "sub-001", "assignedDate": "2023-02-15", "role": "Workspace Admin", "accessLevel": "Admin" },
+  { "id": "asg-002", "employeeId": "emp-001", "subscriptionId": "sub-002", "assignedDate": "2023-02-15", "role": "Org Owner", "accessLevel": "Admin" },
+  { "id": "asg-003", "employeeId": "emp-001", "subscriptionId": "sub-004", "assignedDate": "2023-02-15", "role": "Workspace Admin", "accessLevel": "Admin" },
+  { "id": "asg-004", "employeeId": "emp-001", "subscriptionId": "sub-005", "assignedDate": "2023-02-15", "role": "Host", "accessLevel": "Member" },
+  { "id": "asg-005", "employeeId": "emp-001", "subscriptionId": "sub-006", "assignedDate": "2023-02-15", "role": "Site Admin", "accessLevel": "Admin" },
+  { "id": "asg-006", "employeeId": "emp-001", "subscriptionId": "sub-008", "assignedDate": "2023-02-15", "role": "Enterprise User", "accessLevel": "Member" },
+
+  { "id": "asg-007", "employeeId": "emp-002", "subscriptionId": "sub-001", "assignedDate": "2023-04-10", "role": "Member", "accessLevel": "Member" },
+  { "id": "asg-008", "employeeId": "emp-002", "subscriptionId": "sub-002", "assignedDate": "2023-04-10", "role": "Developer", "accessLevel": "Write" },
+  { "id": "asg-009", "employeeId": "emp-002", "subscriptionId": "sub-004", "assignedDate": "2023-04-10", "role": "Member", "accessLevel": "Member" },
+  { "id": "asg-010", "employeeId": "emp-002", "subscriptionId": "sub-006", "assignedDate": "2023-04-10", "role": "Developer", "accessLevel": "Write" },
+  { "id": "asg-011", "employeeId": "emp-002", "subscriptionId": "sub-0010", "assignedDate": "2023-04-15", "role": "Viewer / APM", "accessLevel": "Read" },
+
+  { "id": "asg-012", "employeeId": "emp-003", "subscriptionId": "sub-001", "assignedDate": "2023-06-01", "role": "Member", "accessLevel": "Member" },
+  { "id": "asg-013", "employeeId": "emp-003", "subscriptionId": "sub-003", "assignedDate": "2023-06-01", "role": "Editor", "accessLevel": "Admin" },
+  { "id": "asg-014", "employeeId": "emp-003", "subscriptionId": "sub-004", "assignedDate": "2023-06-01", "role": "Member", "accessLevel": "Member" },
+  { "id": "asg-015", "employeeId": "emp-003", "subscriptionId": "sub-007", "assignedDate": "2023-06-10", "role": "Brand Designer", "accessLevel": "Member" },
+
+  { "id": "asg-016", "employeeId": "emp-004", "subscriptionId": "sub-001", "assignedDate": "2023-07-18", "role": "Member", "accessLevel": "Member" },
+  { "id": "asg-017", "employeeId": "emp-004", "subscriptionId": "sub-003", "assignedDate": "2023-07-18", "role": "Viewer-Restricted", "accessLevel": "Read" },
+  { "id": "asg-018", "employeeId": "emp-004", "subscriptionId": "sub-004", "assignedDate": "2023-07-18", "role": "Team Space Admin", "accessLevel": "Admin" },
+  { "id": "asg-019", "employeeId": "emp-004", "subscriptionId": "sub-006", "assignedDate": "2023-07-18", "role": "Product Owner", "accessLevel": "Write" },
+
+  { "id": "asg-020", "employeeId": "emp-005", "subscriptionId": "sub-001", "assignedDate": "2023-09-05", "role": "Member", "accessLevel": "Member" },
+  { "id": "asg-021", "employeeId": "emp-005", "subscriptionId": "sub-004", "assignedDate": "2023-09-05", "role": "Member", "accessLevel": "Member" },
+  { "id": "asg-022", "employeeId": "emp-005", "subscriptionId": "sub-007", "assignedDate": "2023-09-10", "role": "Admin", "accessLevel": "Admin" },
+  { "id": "asg-023", "employeeId": "emp-005", "subscriptionId": "sub-005", "assignedDate": "2023-09-05", "role": "Host", "accessLevel": "Member" },
+
+  { "id": "asg-024", "employeeId": "emp-006", "subscriptionId": "sub-001", "assignedDate": "2023-11-20", "role": "Member", "accessLevel": "Member" },
+  { "id": "asg-025", "employeeId": "emp-006", "subscriptionId": "sub-004", "assignedDate": "2023-11-20", "role": "Member", "accessLevel": "Member" },
+  { "id": "asg-026", "employeeId": "emp-006", "subscriptionId": "sub-005", "assignedDate": "2023-11-20", "role": "Host", "accessLevel": "Member" },
+  { "id": "asg-027", "employeeId": "emp-006", "subscriptionId": "sub-008", "assignedDate": "2023-11-20", "role": "User", "accessLevel": "Member" },
+  { "id": "asg-028", "employeeId": "emp-006", "subscriptionId": "sub-009", "assignedDate": "2023-11-20", "role": "Sales Admin", "accessLevel": "Admin" },
+
+  { "id": "asg-029", "employeeId": "emp-007", "subscriptionId": "sub-001", "assignedDate": "2024-01-15", "role": "Member", "accessLevel": "Member" },
+  { "id": "asg-030", "employeeId": "emp-007", "subscriptionId": "sub-002", "assignedDate": "2024-01-15", "role": "Developer", "accessLevel": "Admin" },
+  { "id": "asg-031", "employeeId": "emp-007", "subscriptionId": "sub-006", "assignedDate": "2024-01-15", "role": "Admin", "accessLevel": "Admin" },
+  { "id": "asg-032", "employeeId": "emp-007", "subscriptionId": "sub-0010", "assignedDate": "2024-01-15", "role": "Datadog Admin", "accessLevel": "Admin" },
+
+  { "id": "asg-033", "employeeId": "emp-008", "subscriptionId": "sub-001", "assignedDate": "2024-03-01", "role": "Support Agent", "accessLevel": "Member" },
+  { "id": "asg-034", "employeeId": "emp-008", "subscriptionId": "sub-004", "assignedDate": "2024-03-01", "role": "Member", "accessLevel": "Member" },
+  { "id": "asg-035", "employeeId": "emp-008", "subscriptionId": "sub-006", "assignedDate": "2024-03-01", "role": "Reporter", "accessLevel": "Read" },
+  { "id": "asg-036", "employeeId": "emp-008", "subscriptionId": "sub-008", "assignedDate": "2024-03-01", "role": "User", "accessLevel": "Member" },
+
+  { "id": "asg-037", "employeeId": "emp-009", "subscriptionId": "sub-001", "assignedDate": "2024-04-12", "role": "Member", "accessLevel": "Member" },
+  { "id": "asg-038", "employeeId": "emp-009", "subscriptionId": "sub-003", "assignedDate": "2024-04-12", "role": "Full Editor", "accessLevel": "Write" },
+  { "id": "asg-039", "employeeId": "emp-009", "subscriptionId": "sub-004", "assignedDate": "2024-04-12", "role": "Member", "accessLevel": "Member" },
+
+  { "id": "asg-040", "employeeId": "emp-010", "subscriptionId": "sub-001", "assignedDate": "2024-06-25", "role": "Member", "accessLevel": "Member" },
+  { "id": "asg-041", "employeeId": "emp-010", "subscriptionId": "sub-005", "assignedDate": "2024-06-25", "role": "Host", "accessLevel": "Member" },
+  { "id": "asg-042", "employeeId": "emp-010", "subscriptionId": "sub-008", "assignedDate": "2024-06-25", "role": "User", "accessLevel": "Member" },
+  { "id": "asg-043", "employeeId": "emp-010", "subscriptionId": "sub-009", "assignedDate": "2024-06-25", "role": "Sales Rep", "accessLevel": "Write" },
+
+  { "id": "asg-044", "employeeId": "emp-011", "subscriptionId": "sub-001", "assignedDate": "2024-08-10", "role": "Billing Admin", "accessLevel": "Admin" },
+  { "id": "asg-045", "employeeId": "emp-011", "subscriptionId": "sub-004", "assignedDate": "2024-08-10", "role": "Member", "accessLevel": "Member" },
+  { "id": "asg-046", "employeeId": "emp-011", "subscriptionId": "sub-008", "assignedDate": "2024-08-10", "role": "Admin", "accessLevel": "Admin" },
+  { "id": "asg-047", "employeeId": "emp-011", "subscriptionId": "sub-009", "assignedDate": "2024-08-10", "role": "Finance Viewer", "accessLevel": "Read" },
+
+  { "id": "asg-048", "employeeId": "emp-012", "subscriptionId": "sub-001", "assignedDate": "2024-10-01", "role": "Member", "accessLevel": "Member" },
+  { "id": "asg-049", "employeeId": "emp-012", "subscriptionId": "sub-002", "assignedDate": "2024-10-01", "role": "Junior Dev", "accessLevel": "Write" },
+  { "id": "asg-050", "employeeId": "emp-012", "subscriptionId": "sub-008", "assignedDate": "2024-10-01", "role": "User", "accessLevel": "Member" }
+]

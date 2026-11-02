@@ -1,0 +1,63 @@
+[
+  { "id": "use-001", "employeeId": "emp-001", "subscriptionId": "sub-001", "lastActive": "2026-11-02", "loginCount30d": 42 },
+  { "id": "use-002", "employeeId": "emp-001", "subscriptionId": "sub-002", "lastActive": "2026-11-01", "loginCount30d": 28 },
+  { "id": "use-003", "employeeId": "emp-001", "subscriptionId": "sub-004", "lastActive": "2026-11-02", "loginCount30d": 35 },
+  { "id": "use-004", "employeeId": "emp-001", "subscriptionId": "sub-005", "lastActive": "2026-10-28", "loginCount30d": 14 },
+  { "id": "use-005", "employeeId": "emp-001", "subscriptionId": "sub-006", "lastActive": "2026-10-31", "loginCount30d": 22 },
+  { "id": "use-006", "employeeId": "emp-001", "subscriptionId": "sub-008", "lastActive": "2026-11-02", "loginCount30d": 50 },
+
+  { "id": "use-007", "employeeId": "emp-002", "subscriptionId": "sub-001", "lastActive": "2026-11-02", "loginCount30d": 60 },
+  { "id": "use-008", "employeeId": "emp-002", "subscriptionId": "sub-002", "lastActive": "2026-11-02", "loginCount30d": 75 },
+  { "id": "use-009", "employeeId": "emp-002", "subscriptionId": "sub-004", "lastActive": "2026-10-29", "loginCount30d": 19 },
+  { "id": "use-010", "employeeId": "emp-002", "subscriptionId": "sub-006", "lastActive": "2026-11-01", "loginCount30d": 32 },
+  { "id": "use-011", "employeeId": "emp-002", "subscriptionId": "sub-0010", "lastActive": "2026-08-15", "loginCount30d": 0 },
+
+  { "id": "use-012", "employeeId": "emp-003", "subscriptionId": "sub-001", "lastActive": "2026-11-02", "loginCount30d": 38 },
+  { "id": "use-013", "employeeId": "emp-003", "subscriptionId": "sub-003", "lastActive": "2026-11-02", "loginCount30d": 88 },
+  { "id": "use-014", "employeeId": "emp-003", "subscriptionId": "sub-004", "lastActive": "2026-10-25", "loginCount30d": 12 },
+  { "id": "use-015", "employeeId": "emp-003", "subscriptionId": "sub-007", "lastActive": "2026-09-12", "loginCount30d": 0 },
+
+  { "id": "use-016", "employeeId": "emp-004", "subscriptionId": "sub-001", "lastActive": "2026-11-02", "loginCount30d": 45 },
+  { "id": "use-017", "employeeId": "emp-004", "subscriptionId": "sub-003", "lastActive": "2026-09-02", "loginCount30d": 0 },
+  { "id": "use-018", "employeeId": "emp-004", "subscriptionId": "sub-004", "lastActive": "2026-11-02", "loginCount30d": 65 },
+  { "id": "use-019", "employeeId": "emp-004", "subscriptionId": "sub-006", "lastActive": "2026-11-01", "loginCount30d": 40 },
+
+  { "id": "use-020", "employeeId": "emp-005", "subscriptionId": "sub-001", "lastActive": "2026-11-01", "loginCount30d": 30 },
+  { "id": "use-021", "employeeId": "emp-005", "subscriptionId": "sub-004", "lastActive": "2026-10-30", "loginCount30d": 20 },
+  { "id": "use-022", "employeeId": "emp-005", "subscriptionId": "sub-007", "lastActive": "2026-11-02", "loginCount30d": 54 },
+  { "id": "use-023", "employeeId": "emp-005", "subscriptionId": "sub-005", "lastActive": "2026-09-18", "loginCount30d": 0 },
+
+  { "id": "use-024", "employeeId": "emp-006", "subscriptionId": "sub-001", "lastActive": "2026-10-20", "loginCount30d": 4 },
+  { "id": "use-025", "employeeId": "emp-006", "subscriptionId": "sub-004", "lastActive": "2026-10-18", "loginCount30d": 3 },
+  { "id": "use-026", "employeeId": "emp-006", "subscriptionId": "sub-005", "lastActive": "2026-10-15", "loginCount30d": 2 },
+  { "id": "use-027", "employeeId": "emp-006", "subscriptionId": "sub-008", "lastActive": "2026-10-20", "loginCount30d": 5 },
+  { "id": "use-028", "employeeId": "emp-006", "subscriptionId": "sub-009", "lastActive": "2026-10-21", "loginCount30d": 4 },
+
+  { "id": "use-029", "employeeId": "emp-007", "subscriptionId": "sub-001", "lastActive": "2026-11-02", "loginCount30d": 35 },
+  { "id": "use-030", "employeeId": "emp-007", "subscriptionId": "sub-002", "lastActive": "2026-11-02", "loginCount30d": 62 },
+  { "id": "use-031", "employeeId": "emp-007", "subscriptionId": "sub-006", "lastActive": "2026-10-27", "loginCount30d": 16 },
+  { "id": "use-032", "employeeId": "emp-007", "subscriptionId": "sub-0010", "lastActive": "2026-11-02", "loginCount30d": 44 },
+
+  { "id": "use-033", "employeeId": "emp-008", "subscriptionId": "sub-001", "lastActive": "2026-11-02", "loginCount30d": 52 },
+  { "id": "use-034", "employeeId": "emp-008", "subscriptionId": "sub-004", "lastActive": "2026-10-26", "loginCount30d": 18 },
+  { "id": "use-035", "employeeId": "emp-008", "subscriptionId": "sub-006", "lastActive": "2026-08-20", "loginCount30d": 0 },
+  { "id": "use-036", "employeeId": "emp-008", "subscriptionId": "sub-008", "lastActive": "2026-11-01", "loginCount30d": 30 },
+
+  { "id": "use-037", "employeeId": "emp-009", "subscriptionId": "sub-001", "lastActive": "2026-11-02", "loginCount30d": 40 },
+  { "id": "use-038", "employeeId": "emp-009", "subscriptionId": "sub-003", "lastActive": "2026-11-02", "loginCount30d": 78 },
+  { "id": "use-039", "employeeId": "emp-009", "subscriptionId": "sub-004", "lastActive": "2026-10-15", "loginCount30d": 6 },
+
+  { "id": "use-040", "employeeId": "emp-010", "subscriptionId": "sub-001", "lastActive": "2026-11-01", "loginCount30d": 26 },
+  { "id": "use-041", "employeeId": "emp-010", "subscriptionId": "sub-005", "lastActive": "2026-08-25", "loginCount30d": 0 },
+  { "id": "use-042", "employeeId": "emp-010", "subscriptionId": "sub-008", "lastActive": "2026-11-01", "loginCount30d": 22 },
+  { "id": "use-043", "employeeId": "emp-010", "subscriptionId": "sub-009", "lastActive": "2026-11-02", "loginCount30d": 50 },
+
+  { "id": "use-044", "employeeId": "emp-011", "subscriptionId": "sub-001", "lastActive": "2026-11-02", "loginCount30d": 30 },
+  { "id": "use-045", "employeeId": "emp-011", "subscriptionId": "sub-004", "lastActive": "2026-10-24", "loginCount30d": 11 },
+  { "id": "use-046", "employeeId": "emp-011", "subscriptionId": "sub-008", "lastActive": "2026-11-02", "loginCount30d": 41 },
+  { "id": "use-047", "employeeId": "emp-011", "subscriptionId": "sub-009", "lastActive": "2026-07-15", "loginCount30d": 0 },
+
+  { "id": "use-048", "employeeId": "emp-012", "subscriptionId": "sub-001", "lastActive": "2026-09-01", "loginCount30d": 0 },
+  { "id": "use-049", "employeeId": "emp-012", "subscriptionId": "sub-002", "lastActive": "2026-09-01", "loginCount30d": 0 },
+  { "id": "use-050", "employeeId": "emp-012", "subscriptionId": "sub-008", "lastActive": "2026-09-01", "loginCount30d": 0 }
+]
